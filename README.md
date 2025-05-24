@@ -1,6 +1,6 @@
 **Prompt Techniques:
 
-##### Zero-Hot Prompting #######
+##### Zero-Shot Prompting #######
 Sentiment Analysis:
 Analyze the sentiment of the following statement as positive, negative or neutral: 'The movie was fantastic!'
 Sentiment:
@@ -41,4 +41,31 @@ Automated Chain-of-Thought (Auto-CoT):
 
 ###### Meta Prompting ########
 
+Prompt:
+------
+"Let's solve this math problem step by step. But before you start, think about how you would approach this problem logically. Then, proceed with your reasoning.
+
+Question:
+If a train travels 60 miles per hour for 2 hours, how far does it travel?
+
+Instructions:
+1. Reflect on the problem and consider the best approach to solve it.
+2. Break down the problem into smaller, manageable steps.
+3. Provide your final answer after completing the steps."
+
+Expected Model Response:
+-----------------------
+"To solve this, I first think about the relationship between speed, time, and distance. The formula to calculate distance is:
+Distance = Speed × Time
+Now, applying the values:
+Distance = 60 miles/hour × 2 hours = 120 miles
+So, the train travels 120 miles."
+
+🔍 What Makes It "Meta"?
+In this example, the prompt explicitly asks the model to reflect on its reasoning process before proceeding with the solution. This meta-cognitive step encourages the model to consider its approach, potentially leading to more accurate and thoughtful responses.
+
+✅ Benefits of Meta CoT Prompting
+Enhanced Accuracy: By reflecting on the reasoning process, the model may identify and correct potential errors before arriving at a final answer.
+Improved Transparency: This approach makes the model's thought process more explicit, aiding in understanding how it arrives at conclusions.
+Better Problem-Solving: Encouraging reflection can lead to more effective strategies for tackling complex problems.
 
