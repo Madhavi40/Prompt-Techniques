@@ -36,7 +36,8 @@ Response: "Roger started with 5 balls. 2 cans of 3 tennis balls each is 6 tennis
 
 Automated Chain-of-Thought (Auto-CoT):
 
-pic
+<img width="551" alt="auto CoT" src="https://github.com/user-attachments/assets/7d2e327c-9cfe-4cf8-8f3c-a23b779ab175" />
+
 
 ###### Meta Prompting ########
 
