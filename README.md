@@ -119,3 +119,10 @@ Meditation offers a wide array of benefits, encompassing mental, emotional, and 
 ✅ Final Answer
 Meditation is a versatile practice that can significantly enhance various aspects of life. By incorporating meditation into daily routines, individuals can experience improved mental clarity, emotional stability, and overall well-being.
 
+##### Prompt Chaining ####
+1. Extraction
+2. Final Response
+
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/c0411c53-c04e-4c8e-8a78-56cee6a209bc" />
+
+
