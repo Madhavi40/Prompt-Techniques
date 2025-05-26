@@ -132,6 +132,11 @@ Meditation is a versatile practice that can significantly enhance various aspect
 example Prompt:
 You have a 3-liter jug and a 5-liter jug. How can you measure exactly 4 liters of water?
 
+##### RAG Retrieval Augmented Generation ####
+
+For knowledge intensive tasks. Information retrieval component + Text generation model (Parametric memory)
+
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/60dcbc7b-19d1-43fa-9c52-fb38a75b9ede" />
 
 
 
