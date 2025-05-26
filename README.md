@@ -125,4 +125,13 @@ Meditation is a versatile practice that can significantly enhance various aspect
 
 <img width="529" alt="image" src="https://github.com/user-attachments/assets/c0411c53-c04e-4c8e-8a78-56cee6a209bc" />
 
+#### Tree of Thoughts #####
+
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/d5398b26-9237-47fe-97a4-5859d6f69609" />
+
+example Prompt:
+You have a 3-liter jug and a 5-liter jug. How can you measure exactly 4 liters of water?
+
+
+
 
